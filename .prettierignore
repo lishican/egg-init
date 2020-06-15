@@ -1,0 +1,15 @@
+app/proxy*
+node_modules/
+fntest/
+dist/
+coverage/
+mocks/
+.react_entries/
+code-gen
+/typings/
+/app/dal/dao/base
+/app/dal/extension/extension.d.ts
+/app/dal/index.d.ts
+/conf
+/logs
+/run
